@@ -1,0 +1,129 @@
+nav ul li {
+	list-style: none;
+	display: inline-block;
+	float: right;
+	padding: 0px 15px 0px 15px;
+}
+
+
+
+
+
+
+
+nav a, nav a:visited {
+	color: #AD3F37;
+}
+
+nav a.selected, nav a:hover {
+	color: #DB4136;
+}
+
+
+
+
+html {
+	background-color: #69140E;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #3C1518;
+}
+
+.info-title h1 {
+	color: #eecf6d;
+}
+
+.container {
+	color: #FFF94F;
+}
+
+/*************
+	Jobs
+************/
+
+
+.jobs h3 {
+	color: #EECF6D;
+}
+
+.jobs a, a:hover {
+	color: #880D1E;
+}
+
+.jobs a h3 {
+	padding: 15px 15px;
+	margin: 15px;
+	
+}
+
+/*************
+Project Mananger
+**************/
+
+
+.pm-jobs h3 {
+	color: #934B00;
+}
+
+.pm-col-info ul li {
+	list-style-type: none;
+}
+
+.pm-colh2 a {
+	color: #EECF6D;
+}
+
+/**************
+Web Designer
+**************/
+
+.wd-jobs h3 {
+	color: #934B00;
+}
+
+.wd-facts ul {
+	list-style: none;
+}
+
+
+.wd-colh2 a {
+	color: #EECF6D;
+}
+
+/****************
+Web Dev.
+***************/
+
+
+.wdv-jobs h3 {
+	color: #934B00;
+}
+
+.wdv-col-info ul {
+	list-style: none;
+	display: inline-flex;
+}
+
+.wdv-col-info ul li {
+	padding: 0px 10px 0px 10px;
+}
+
+
+
+/***************
+SEO Specialist
+***************/
+
+.seo-col-info ul li {
+	list-style-type: none;
+}
+
+.seo-colh2 a {
+	color: #EECF6D;
+}
+
+
+
